@@ -2,6 +2,12 @@
 /* CSS Document */
 
 blockquote {
+<<<<<<< HEAD
  color: #CC3234;
  margin: 0!important;
 }
+=======
+    color: #CC3234;
+    margin: 0;
+}
+>>>>>>> 13c9897ccc1f8e13f7a2c5faa5701df7424ca454
