@@ -2980,7 +2980,7 @@ opacity:1
 	transition: transform 0.45s ease-in-out
 }
 .highlight-section .highlight-bg-wrapper .highlight-wrapper .highlight-flex .highlight-item a h5, .highlight-section .highlight-bg-wrapper .highlight-wrapper .highlight-flex .highlight-item a .h5 {
-	font-size: 22px;
+	font-size: 20px;
 	background-color: #fff;
 	color: #333;
 	z-index: 3;
