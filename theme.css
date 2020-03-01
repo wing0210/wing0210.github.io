@@ -137,7 +137,7 @@ border:0
 	color: #333;
 	font-style: normal;
 	font-size: 28px;
-	font-family: Arial, Baskerville, monospace
+	font-family:"微軟正黑體";
 }
 .mfp-close:hover, .mfp-close:focus {
 	opacity: 1;
@@ -520,7 +520,7 @@ h6, .h6 {
 	display: none
 }
 .header-bar {
-	font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微軟正黑體", Helvetica, sans-serif;
+	font-family:"微軟正黑體";
 	font-size: 13px;
 	font-weight: 400;
 	color: #fff;
@@ -828,7 +828,7 @@ h6, .h6 {
 	margin-bottom: 5px
 }
 .grid-link__title {
-	font-family: "STSong", "SimSun", "SimHei", "Microsoft YaHei", "微軟正黑體", Helvetica, sans-serif;
+	font-family:"微軟正黑體";
 	color: #333;
 	font-size: 1em;
 	line-height: 1.4;
@@ -989,7 +989,7 @@ h6, .h6 {
 	overflow: auto;
 	background-color: #000;
 	color: #fff;
-	font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微軟正黑體", Helvetica, sans-serif;
+	font-family:"微軟正黑體";
 	font-size: 16px;
 	-webkit-transition: all 300ms cubic-bezier(0.165, 0.84, 0.44, 1);
 	-moz-transition: all 300ms cubic-bezier(0.165, 0.84, 0.44, 1);
@@ -1068,7 +1068,7 @@ h6, .h6 {
 	display: block;
 	padding: 1.2em 15px;
 	font-size: 1em;
-	font-family: "STSong", "SimSun", "SimHei", "Microsoft YaHei", "微軟正黑體", Helvetica, sans-serif;
+	font-family:"微軟正黑體";
 	font-weight: bold;
 	text-transform: uppercase
 }
@@ -1084,7 +1084,7 @@ h6, .h6 {
 	border: 1px solid #fff
 }
 .mobile-nav__link.header-bar__search-wrapper .header-bar__search input {
-	font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微軟正黑體", Helvetica, sans-serif
+	font-family:"微軟正黑體";
 }
 .mobile-nav__link.header-bar__search-wrapper .header-bar__search .btn {
 	box-shadow: none;
@@ -1134,7 +1134,7 @@ h6, .h6 {
 	padding: 12px 15px;
 	color: #fff;
 	font-size: 1em;
-	font-family: "STSong", "SimSun", "SimHei", "Microsoft YaHei", "微軟正黑體", Helvetica, sans-serif
+	font-family:"微軟正黑體";
 }
 
 @media screen and (min-width: 768px) {
@@ -1674,7 +1674,7 @@ html[xmlns] .slides {
 	display: block
 }
 .social-sharing {
-	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif
+	font-family:"微軟正黑體";
 }
 .social-sharing * {
 	-webkit-box-sizing: border-box;
@@ -1927,7 +1927,7 @@ a:hover .share-count:after {
 	padding: 15px 30px
 }
 .password-page__hero {
-	font-family: "STSong", "SimSun", "SimHei", "Microsoft YaHei", "微軟正黑體", Helvetica, sans-serif;
+	font-family:"微軟正黑體";
 	font-weight: bold;
 	font-size: 2.8em;
 	line-height: 1.25;
@@ -1991,7 +1991,7 @@ input[type="submit"].password-page__login-form__submit, input[type="submit"].pas
 	color: inherit
 }
 .password-login {
-	font-family: "STSong", "SimSun", "SimHei", "Microsoft YaHei", "微軟正黑體", Helvetica, sans-serif;
+	font-family:"微軟正黑體";
 	font-size: .93333em;
 	line-height: 14px
 }
@@ -2095,7 +2095,7 @@ input[type="submit"].password-page__login-form__submit, input[type="submit"].pas
 	margin-bottom: 0px
 }
 select.currency-picker {
-	font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微軟正黑體", Helvetica, sans-serif;
+	font-family:"微軟正黑體";
 	margin: 0;
 	padding-top: 5px;
 	padding-bottom: 5px;
@@ -2146,7 +2146,7 @@ footer.site-footer.small--text-center .wrapper {
 	color: #fff
 }
 h1.site-header__logo, .site-header__logo.h1 {
-	font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微軟正黑體", Helvetica, sans-serif;
+	font-family:"微軟正黑體";
 	font-weight: normal
 }
 
@@ -3223,7 +3223,7 @@ opacity:1
 	-webkit-overflow-scrolling: touch;
 	background-color: #000;
 	color: #fff;
-	font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微軟正黑體", Helvetica, sans-serif;
+	font-family:"微軟正黑體";
 	font-size: 13px
 }
 
