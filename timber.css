@@ -1714,7 +1714,7 @@ button[disabled], html input[disabled] {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	border-radius: 0px;
-	background-color: #000;
+	background-color: #570052;
 	color: #fff;
 	-webkit-transition: background-color 0.1s ease-in;
 	-moz-transition: background-color 0.1s ease-in;
