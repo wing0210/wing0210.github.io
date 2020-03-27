@@ -1676,7 +1676,7 @@ th, td {
 }
 a, .text-link {
 	cursor: pointer;
-	color: #69004F;
+	color: #bc389b;
 	text-decoration: none;
 	background: transparent
 }
@@ -2269,7 +2269,7 @@ margin-bottom:-1px
 	color: #333
 }
 .breadcrumb a:hover, .breadcrumb a:focus, .breadcrumb a:active, .tags a:hover, .tags a:focus, .tags a:active {
-	color: #69004F
+	color: #bc389b
 }
 .breadcrumb {
 	margin-bottom: 15px;
@@ -2288,7 +2288,7 @@ margin-bottom:-1px
 	line-height: 1
 }
 .tags {
-	color: #69004F
+	color: #bc389b
 }
 .tags a {
 	display: inline-block;
@@ -2296,7 +2296,7 @@ margin-bottom:-1px
 	margin-right: 12px
 }
 .tag--active a {
-	color: #69004F
+	color: #bc389b
 }
 .site-footer {
 	background-color: #000;
@@ -2349,7 +2349,7 @@ margin-bottom:-1px
 	color: #fff
 }
 .site-footer__links a:hover, .site-footer__links a:active {
-	color: #69004F
+	color: #bc389b
 }
 .site-footer__links.inline-list li {
 	padding: 0 10px
@@ -2678,7 +2678,7 @@ footer {
 	position: relative
 }
 .site-nav__link:hover, .site-nav__link:active, .site-nav__link:focus {
-	color: #69004F
+	color: #bc389b
 }
 .site-nav--active .site-nav__link {
 	font-weight: bold
@@ -2753,7 +2753,7 @@ footer {
 	color: #666
 }
 .site-nav__dropdown .site-nav__link:hover, .site-nav__dropdown .site-nav__link:active, .site-nav__dropdown .site-nav__link:focus {
-	color: #69004F
+	color: #bc389b
 }
 .site-nav__dropdown .site-nav__dropdown {
 	top: 0;
@@ -2986,7 +2986,7 @@ button+.note {
 	animation: fade_in 0.25s ease-in-out
 }
 .site-nav--has-dropdown:hover>.site-nav__link, .site-nav--has-dropdown.nav-hover>.site-nav__link {
-	color: #69004F
+	color: #bc389b
 }
 .site-nav--has-dropdown:hover .arrow-icon svg, .site-nav--has-dropdown.nav-hover .arrow-icon svg {
 	-webkit-transform: rotate(-180deg);
@@ -3043,7 +3043,7 @@ button+.note {
 	position: static
 }
 .datepicker-top-left, .datepicker-top-right {
-	border-top-color: #69004F
+	border-top-color: #bc389b
 }
 .datepicker-top-left::before, .datepicker-top-left::after, .datepicker-top-right::before, .datepicker-top-right::after {
 	border-top: 0;
@@ -3051,14 +3051,14 @@ button+.note {
 	top: -5px
 }
 .datepicker-top-left::before, .datepicker-top-right::before {
-	border-bottom-color: #69004F
+	border-bottom-color: #bc389b
 }
 .datepicker-top-left::after, .datepicker-top-right::after {
 	border-bottom-color: #fff;
 	top: -4px
 }
 .datepicker-bottom-left, .datepicker-bottom-right {
-	border-bottom-color: #69004F
+	border-bottom-color: #bc389b
 }
 .datepicker-bottom-left::before, .datepicker-bottom-left::after, .datepicker-bottom-right::before, .datepicker-bottom-right::after {
 	border-bottom: 0;
@@ -3066,7 +3066,7 @@ button+.note {
 	left: 10px
 }
 .datepicker-bottom-left::before, .datepicker-bottom-right::before {
-	border-top-color: #69004F
+	border-top-color: #bc389b
 }
 .datepicker-bottom-left::after, .datepicker-bottom-right::after {
 	border-top-color: #fff;
@@ -3113,7 +3113,7 @@ button+.note {
 }
 .datepicker-panel>ul>li.picked, .datepicker-panel>ul>li.picked:hover {
 	font-weight: bold;
-	color: #69004F;
+	color: #bc389b;
 	background-color: rgba(105,0,79,0.2)
 }
 .datepicker-panel>ul>li.disabled, .datepicker-panel>ul>li.disabled:hover {
