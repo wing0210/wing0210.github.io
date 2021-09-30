@@ -1689,6 +1689,7 @@ button {
 button[disabled], html input[disabled] {
 	cursor: default
 }
+/*購物車按鈕*/
 .btn, .btn--secondary, input.btn--secondary, .btn--tertiary, input.btn--tertiary, input[type="submit"] {
 	font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微軟正黑體", Helvetica, sans-serif;
 	font-weight: normal;
