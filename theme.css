@@ -3091,7 +3091,7 @@ opacity:1
 }
 .logo-list-section .logo-list-wrapper .logo-list-item {
 	margin: 20px;
-	max-width: 150px;
+	max-width: 100px;
 	position: relative;
 	display: flex;
 	justify-content: center;
